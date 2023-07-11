@@ -1,0 +1,13 @@
+Download the apllication(fake_news_detectio_system folder) folder.
+	open it in the android studio (flutter environment)
+    and run it on a emulator(VM)
+
+Run this command on cmd for emulator(VM) port forwarding
+	adb reverse tcp:5000 tcp:5000
+
+To run the Flask api
+	navigate inside the implementation folder
+    and run the following command on your python env
+    	python imp.py (imp.py is the root file)
+        
+Refer the requirements.txt file to look at all the required packages
