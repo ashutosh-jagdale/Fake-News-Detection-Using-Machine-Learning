@@ -11,6 +11,8 @@ An Android application to detect fake news using multiple Machine Learning model
 <p class="has-line-data" data-line-start="10" data-line-end="13">•   To apply Feature Engineering for best result of a fake news.<br>
 •   Classify news using various classification algorithms such as Logistic Regression, XG boost, Random Forest, Decision Tree, SVM, Naive Bayes.<br>
 •   To apply Ensemble Learning for best result of a fake news.</p>
+<p class="has-line-data" data-line-start="0" data-line-end="1"><b>PROPOSED METHOD</b></p>
+<p class="has-line-data" data-line-start="2" data-line-end="10">‘Fake News’ is one of the most debated topics in the context of current political discourse across the world. In the 2016 presidential election in US, the impact of misleading ‘News’ like articles received a substantial attention, particularly after the election of President Trump. According to a Pew Research poll*, 64% of adults in US say that fake news has left them confused about basic facts. Given the ubiquity of internet and ease of disseminating unverified information on internet, it is imperative that we need to develop tools and methods to indicate the veracity of a piece of information.</p>
 <p class="has-line-data" data-line-start="14" data-line-end="15"><b>FEATURES</b></p>
 <p class="has-line-data" data-line-start="16" data-line-end="22">•   Spam detection<br>
 •   Clickbait analysis<br>
