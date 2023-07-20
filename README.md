@@ -1,6 +1,8 @@
 # Fake-News-Detection-Using-Machine-Learning
 An Android application to detect fake news using multiple Machine Learning models.
 
+<a href="[url](https://www.irjet.net/archives/V8/i7/IRJET-V8I7712.pdf)">Publication- Fake News Detection Using Machine Learning</a>
+
 <p class="has-line-data" data-line-start="0" data-line-end="1"><b>ABSTRACT</b></p>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Fake news is one of the most common complaints heard in current generation. As it spreads mis- information in society and minds making them question even real news and facts. So, using a machine learning approach to tackle the problem is the most sensible solution We are performing Feature Engineering in which new features are created on the basis of ML models (Spam detection, Clickbait Analysis, Classification, Sentiment analysis and Stance Detection) and these interns are used in a final ML model. Multiple ML models have been used to compare the result and find out the most accurate among them.</p>
 <p class="has-line-data" data-line-start="4" data-line-end="5"><b>AIM</b></p>
